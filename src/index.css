@@ -20,11 +20,10 @@
       'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale; */
-    
-  font-family: 'Poppins', sans-serif;
-  background: #01040b;
-  color: #e2e8f0;
 
+    font-family: "Poppins", sans-serif;
+    background: #01040b;
+    color: #e2e8f0;
   }
 }
 @keyframes fadeUp {
@@ -41,7 +40,7 @@
   position: absolute;
   width: 500px;
   height: 500px;
-  background: radial-gradient(circle, rgba(34,211,238,0.2), transparent);
+  background: radial-gradient(circle, rgba(34, 211, 238, 0.2), transparent);
   filter: blur(120px);
 }
 :root {
@@ -49,11 +48,11 @@
 }
 @layer utilities {
   .bg-grid-pattern {
-  background-image:
-    linear-gradient(to right, rgba(37, 73, 126, 0.08) 1px, transparent 1px),
-    linear-gradient(to bottom, rgba(59,130,246,0.08) 1px, transparent 1px);
-  background-size: 60px 60px;
-}
+    background-image:
+      linear-gradient(to right, rgba(37, 73, 126, 0.08) 1px, transparent 1px),
+      linear-gradient(to bottom, rgba(59, 130, 246, 0.08) 1px, transparent 1px);
+    background-size: 60px 60px;
+  }
   /* .bg-grid-pattern {
     background-image:
       linear-gradient(to right, rgba(255, 255, 255, 0.05) 1px, transparent 1px),
@@ -115,4 +114,13 @@
       transform: translateY(0);
     }
   }
+}
+
+::-webkit-scrollbar {
+  width: 0px;
+  background: transparent;
+}
+
+html {
+  scrollbar-width: none;
 }
