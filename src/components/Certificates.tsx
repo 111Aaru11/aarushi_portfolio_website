@@ -8,7 +8,7 @@ const Certificates = () => {
       issueDate: "3rd August 2025",
       description:
         "Completed a 35+ hour live training on Advanced Python for Machine Learning and AI, gaining hands-on experience implementing ML concepts and solving real-world problems using Python.",
-      link: "https://drive.google.com/drive/u/0/folders/15ko9-0uamLfC3dfHgYbuamjPMtU70mbh",
+      link: "https://drive.google.com/file/d/1khfQ25qDSi_xb4wbRhZE2iVI8OqsZe3q/view?usp=drive_link",
     },
     {
       title: "Unlocking DSA with C",
@@ -16,7 +16,7 @@ const Certificates = () => {
       issueDate: "25th March 2024",
       description:
         "Completed a 25+ hour live course on Data Structures and Algorithms using C, strengthening problem-solving skills and core concepts like arrays, pointers and algorithmic thinking.",
-      link: "https://drive.google.com/drive/u/0/folders/15ko9-0uamLfC3dfHgYbuamjPMtU70mbh",
+      link: "https://drive.google.com/file/d/176B37c-fJJ8LX9ePqiAMSkaMgezANRiy/view?usp=drive_link",
     },
     {
       title: "Gen AI NASSCOM",
@@ -24,7 +24,7 @@ const Certificates = () => {
       issueDate: "21 February 2026",
       description:
         "Completed the Gen AI NASSCOM certification under the Skill Development Program, gaining practical exposure to Generative AI concepts and real-world industry applications.",
-      link: "https://drive.google.com/drive/u/0/folders/15ko9-0uamLfC3dfHgYbuamjPMtU70mbh",
+      link: "https://drive.google.com/file/d/1sD0AU2E9EV3HvFOhbEcPR6wWoDGvdCMC/view?usp=drive_link",
     },
   ];
 
