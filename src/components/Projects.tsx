@@ -49,7 +49,7 @@ const Projects = () => {
     },
     {
       title: 'ETL Pipeline',
-      description: 'Built an end-to-end data analysis workflow integrating Python with Microsoft SQL Server to extract, process, and analyze datasets. The project demonstrates ETL operations, database connectivity using libraries like pyodbc/SQLAlchemy, and analytical queries to derive insights using Jupyter Notebook and SQL.',
+      description: 'Developed a Python–SQL data analysis pipeline to connect with Microsoft SQL Server, perform data extraction, querying, and generate insights using Python and SQL.',
       technologies: ['Python', 'Pandas', 'Microsoft SQL Server', 'PyODBC', 'SQLAlchemy', 'Jupyter Notebook', 'Kaggle'],
       github: 'https://github.com/111Aaru11/Python-SQL-Project',
     },
